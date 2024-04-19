@@ -8,7 +8,7 @@ We used [Google OR-Tools](https://developers.google.com/optimization/routing/cvr
 <img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/Solution_part3.jpg" alt="Alt Text" width="600" height="500">
 
 
-We have also utilized the [folium library](https://python-visualization.github.io/folium/latest/), which is a powerful library for creating maps, for visualization. Initially, we plotted a map named "Location of individuals" to display the location of each individual. Additionally, we created 10 maps to illustrate the routes and the individuals assigned to each of the 10 drivers.
+We have also utilized the [folium library](https://python-visualization.github.io/folium/latest/), which is a powerful library for creating maps, for visualization. Initially, we plotted a map named "Location of individuals" to display the location of each individual. Additionally, we created 10 maps to illustrate the routes and the individuals assigned to each of the 10 drivers. All the maps have been uploaded to the docs directory.
 
 
 
