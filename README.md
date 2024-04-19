@@ -3,9 +3,9 @@ One of my internship projects at [the Parsian Center for Quality and Productivit
 
 We used [Google OR-Tools](https://developers.google.com/optimization/routing/cvrp) library in Python to solve this optimization problem and arrived at the following solution for each driver. In total, it was determined that only 10 drivers are needed, and the total time traveled by all drivers is 785 minutes.
 
-<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/1.jpg" alt="Alt Text" width="600" height="500">
-<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/2.jpg" alt="Alt Text" width="400" height="400">
-<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/3.jpg" alt="Alt Text" width="600" height="500">
+<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/Solution_part1.jpg" alt="Alt Text" width="600" height="500">
+<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/Solution_part2.jpg" alt="Alt Text" width="400" height="400">
+<img src="https://github.com/ShayanDarabi/CVRP/blob/main/img/Solution_part3.jpg" alt="Alt Text" width="600" height="500">
 
 
 We have also utilized the [folium library](https://python-visualization.github.io/folium/latest/), which is a powerful library for creating maps, for visualization. Initially, we plotted a map named "Location of individuals" to display the location of each individual. Additionally, we created 10 maps to illustrate the routes and the individuals assigned to each of the 10 drivers.
